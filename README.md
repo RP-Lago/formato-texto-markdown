@@ -1,4 +1,7 @@
-# Formatação de Texto em Markdown no GitHub
+# Formatação de Texto em Markdown no GitHub 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" height="75">
+
+-----
 
 ## 1. Títulos
 Use `#` para criar títulos de diferentes níveis:
