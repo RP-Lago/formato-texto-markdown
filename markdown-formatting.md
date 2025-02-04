@@ -93,12 +93,13 @@ Resultado: [Texto do link](https://www.exemplo.com)
 ## 7. Imagens
 
 ```markdown
-![Texto alternativo](OIP.jpg)
+![Texto alternativo](caminhada_imagem)
 ```
 Resultado:  
 ![Texto alternativo](caminho da imagem)
 
 <!-- ![Texto alternativo](image2.gif) -->
+![705](705.png)
 
 ## 8. Tabelas
 ```markdown
